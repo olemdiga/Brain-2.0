@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "76476449e25709de",
+    "type": "split",
+    "children": [
+      {
+        "id": "33242fb8e3041a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75dffff5d61dfaa0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ω Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Ω Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d915dcd9802cc8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9228b467fd88c455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3515ab4ad36f38e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "019c53bc7c8e2cd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e6fb0efc33af33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b4ebbae3124ca3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false,
+      "activity-heatmap:Open activity heatmap": false
+    }
+  },
+  "active": "75dffff5d61dfaa0",
+  "lastOpenFiles": [
+    "5. Project Management/Ω Project Management.md",
+    "Ω Home.md",
+    "4. Skills Management/Ω Skills Management.md",
+    "3. Knowledge Management/Ω Knowledge Management.md",
+    "2. Personal Development/Ω Personal Development.md",
+    "1. Life Management/Ω Life Management.md",
+    "Ω Index.md",
+    "Ω Assets/Templates/See Also.md",
+    "Ω Assets/Templates/Note.md",
+    "Ω Assets/Templates/Column.md",
+    "Ω The Dump/The Dump.md",
+    "1. Life Management/Health/Health.md",
+    "1. Life Management/Health/My Health.md",
+    "1. Life Management/Health/Training.md",
+    "1. Life Management/Shopping Lists",
+    "1. Life Management/Household Projects",
+    "1. Life Management/Health/Sleep.md",
+    "2. Personal Development/Minimalism/Selective Ignorance/Selective Ignorance.md",
+    "2. Personal Development/Mastery/Hard Work/Improve Your Taste.md",
+    "2. Personal Development/Mastery/Hard Work/Test DDDD.md",
+    "2. Personal Development/Productivity/3. Obsess Over Quality/Obsess Over Quality.md",
+    "2. Personal Development/Productivity/3. Obsess Over Quality/Spend Money On Quality Tools.md",
+    "2. Personal Development/Productivity/1. Do Fewer Things/Do Fewer Things.md",
+    "2. Personal Development/Learning/Learning/Learning.md",
+    "2. Personal Development/Decisions/Take Action/Take Action.md",
+    "2. Personal Development/Untitled.md",
+    "2. Personal Development/Minimalism/Selective Ignorance/Information Overload.md",
+    "4. Skills Management/Programming Languages/C++ Programming/Advice/Do not use using namespace std.md",
+    "4. Skills Management/Programming Languages/C++ Programming/The Language",
+    "4. Skills Management/Programming Languages/C++ Programming/Advice",
+    "Ω Assets/Spreadsheets/lu34163d7ck.tmp",
+    "Ω Assets/Spreadsheets/lu34163d7ci.tmp",
+    "Ω Assets/Spreadsheets/lu34163d7cg.tmp",
+    "Ω Assets/Spreadsheets/lu34163d7ce.tmp",
+    "Ω Assets/Spreadsheets/lu34163d7cc.tmp",
+    "Ω Assets/Spreadsheets/lu34163d7ca.tmp"
+  ]
+}

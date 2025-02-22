@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "trashOption": "none",
+  "readableLineLength": false
+}
