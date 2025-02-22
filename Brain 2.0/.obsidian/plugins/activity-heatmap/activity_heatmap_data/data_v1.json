@@ -1,0 +1,847 @@
+{
+  "checkpoints": {
+    "Ω Index.md": {
+      "mtime": 1740119869892,
+      "wordCount": 2880,
+      "fileSize": 36611
+    },
+    "Ω Home.md": {
+      "mtime": 1740175174288,
+      "wordCount": 82,
+      "fileSize": 561
+    },
+    "Ω Assets/Templates/Note.md": {
+      "mtime": 1740147682701,
+      "wordCount": 18,
+      "fileSize": 102
+    },
+    "Ω Assets/Templates/Column.md": {
+      "mtime": 1739931396924,
+      "wordCount": 27,
+      "fileSize": 287
+    },
+    "5. Project Management/Ω Project Management.md": {
+      "mtime": 1740201800853,
+      "wordCount": 69,
+      "fileSize": 663
+    },
+    "4. Skills Management/Ω Skills Management.md": {
+      "mtime": 1740201702287,
+      "wordCount": 181,
+      "fileSize": 1876
+    },
+    "3. Knowledge Management/Ω Knowledge Management.md": {
+      "mtime": 1740185720228,
+      "wordCount": 123,
+      "fileSize": 1226
+    },
+    "2. Personal Development/Ω Personal Development.md": {
+      "mtime": 1740201252097,
+      "wordCount": 419,
+      "fileSize": 4294
+    },
+    "1. Life Management/Ω Life Management.md": {
+      "mtime": 1740185213068,
+      "wordCount": 282,
+      "fileSize": 2863
+    },
+    "Ω The Dump/The Dump.md": {
+      "mtime": 1740203891270,
+      "wordCount": 79,
+      "fileSize": 468
+    },
+    "Ω The Dump/Success D.md": {
+      "mtime": 1740148278848,
+      "wordCount": 43,
+      "fileSize": 229
+    },
+    "Ω The Dump/Retirement D.md": {
+      "mtime": 1740148191778,
+      "wordCount": 34,
+      "fileSize": 186
+    },
+    "Ω The Dump/Programming D.md": {
+      "mtime": 1740147917325,
+      "wordCount": 50,
+      "fileSize": 286
+    },
+    "Ω The Dump/Procrastination D.md": {
+      "mtime": 1740148331698,
+      "wordCount": 34,
+      "fileSize": 196
+    },
+    "Ω The Dump/Persistence D.md": {
+      "mtime": 1740148361035,
+      "wordCount": 24,
+      "fileSize": 153
+    },
+    "Ω The Dump/Following Others D.md": {
+      "mtime": 1740147897418,
+      "wordCount": 43,
+      "fileSize": 256
+    },
+    "Ω The Dump/Excuses D.md": {
+      "mtime": 1740148321785,
+      "wordCount": 27,
+      "fileSize": 154
+    },
+    "Ω The Dump/Debates D.md": {
+      "mtime": 1740148351468,
+      "wordCount": 34,
+      "fileSize": 194
+    },
+    "Ω The Dump/Business D.md": {
+      "mtime": 1740148140705,
+      "wordCount": 42,
+      "fileSize": 241
+    },
+    "Ω Dig Through/The Passionate Programmer.md": {
+      "mtime": 1740168589361,
+      "wordCount": 4766,
+      "fileSize": 26902
+    },
+    "Ω Assets/Documentation/Hotkeys.md": {
+      "mtime": 1739947057035,
+      "wordCount": 96,
+      "fileSize": 508
+    },
+    "5. Project Management/Resources/Awesome Lists/Awesome List.md": {
+      "mtime": 1740121235858,
+      "wordCount": 2559,
+      "fileSize": 29639
+    },
+    "4. Skills Management/Programming Languages/Markdown/Markdown.md": {
+      "mtime": 1740123323792,
+      "wordCount": 1972,
+      "fileSize": 12163
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/4. Glossary/C++ Glossary.md": {
+      "mtime": 1740142589041,
+      "wordCount": 16,
+      "fileSize": 89
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/3. Appendices/Appendices.md": {
+      "mtime": 1740142537158,
+      "wordCount": 441,
+      "fileSize": 2657
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/2. The Library/The Library.md": {
+      "mtime": 1740141878131,
+      "wordCount": 1215,
+      "fileSize": 7531
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/0. General Principles/General Principles.md": {
+      "mtime": 1740139504111,
+      "wordCount": 39,
+      "fileSize": 227
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/The Language.md": {
+      "mtime": 1740141139065,
+      "wordCount": 731,
+      "fileSize": 4538
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.7.6 The goto statement.md": {
+      "mtime": 1740139504761,
+      "wordCount": 43,
+      "fileSize": 274
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.7 Jump statements.md": {
+      "mtime": 1740139504758,
+      "wordCount": 39,
+      "fileSize": 251
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.6.3 The do statement.md": {
+      "mtime": 1740139504748,
+      "wordCount": 64,
+      "fileSize": 401
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.6 Iteration statements.md": {
+      "mtime": 1740148085025,
+      "wordCount": 35,
+      "fileSize": 224
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.5 Selection statements.md": {
+      "mtime": 1740139504715,
+      "wordCount": 27,
+      "fileSize": 165
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.4 Compound statement or block.md": {
+      "mtime": 1740139504678,
+      "wordCount": 90,
+      "fileSize": 606
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.3 Expression statement.md": {
+      "mtime": 1740139504658,
+      "wordCount": 96,
+      "fileSize": 657
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.2 Label.md": {
+      "mtime": 1740139504658,
+      "wordCount": 161,
+      "fileSize": 1066
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/8 Statements/8.1 Preamble.md": {
+      "mtime": 1740139504635,
+      "wordCount": 140,
+      "fileSize": 1485
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/5 Lexical conventions/5.9 Preprocessing numbers.md": {
+      "mtime": 1740139504601,
+      "wordCount": 86,
+      "fileSize": 623
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/5 Lexical conventions/5.7 Comments.md": {
+      "mtime": 1740139504585,
+      "wordCount": 116,
+      "fileSize": 753
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/5 Lexical conventions/5.6 Tokens.md": {
+      "mtime": 1740139504558,
+      "wordCount": 84,
+      "fileSize": 686
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/5 Lexical conventions/5.5 Alternative tokens.md": {
+      "mtime": 1740139504481,
+      "wordCount": 138,
+      "fileSize": 972
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/5 Lexical conventions/5.1 Separate translation.md": {
+      "mtime": 1740139504465,
+      "wordCount": 167,
+      "fileSize": 1148
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/15 Preprocessing directives/15.9 Pragma directive.md": {
+      "mtime": 1740139504208,
+      "wordCount": 69,
+      "fileSize": 466
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/15 Preprocessing directives/15.6 Macro replacement.md": {
+      "mtime": 1740139504201,
+      "wordCount": 40,
+      "fileSize": 291
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/15 Preprocessing directives/15.10 Null directive.md": {
+      "mtime": 1740139504198,
+      "wordCount": 31,
+      "fileSize": 178
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/14 Exception handling/14.6 Special functions.md": {
+      "mtime": 1740139504175,
+      "wordCount": 27,
+      "fileSize": 210
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/13 Templates/13.9 Template instantiation and specialization.md": {
+      "mtime": 1740139504165,
+      "wordCount": 30,
+      "fileSize": 248
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/13 Templates/13.8 Name resolution.md": {
+      "mtime": 1740139504145,
+      "wordCount": 52,
+      "fileSize": 469
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/13 Templates/13.10 Function template specializations.md": {
+      "mtime": 1740139504131,
+      "wordCount": 78,
+      "fileSize": 660
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/The Language/1. The Language/12 Overloading/12.1 Preamble.md": {
+      "mtime": 1740139504441,
+      "wordCount": 123,
+      "fileSize": 757
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/C++ Programming.md": {
+      "mtime": 1740170729971,
+      "wordCount": 49,
+      "fileSize": 302
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/Advice/Do not use using namespace std.md": {
+      "mtime": 1740170795761,
+      "wordCount": 107,
+      "fileSize": 632
+    },
+    "4. Skills Management/Programming Languages/C++ Programming/Advice/C++ Is Not Object-Oriented.md": {
+      "mtime": 1740139504401,
+      "wordCount": 197,
+      "fileSize": 1198
+    },
+    "4. Skills Management/Certification/CompTIA A+/Core 2 Checklist.md": {
+      "mtime": 1740158415071,
+      "wordCount": 4383,
+      "fileSize": 23636
+    },
+    "4. Skills Management/Certification/CompTIA A+/Core 2 - 220-1102.md": {
+      "mtime": 1740158292715,
+      "wordCount": 2936,
+      "fileSize": 20739
+    },
+    "4. Skills Management/Certification/CompTIA A+/Core 1 Checklist.md": {
+      "mtime": 1740158413351,
+      "wordCount": 3202,
+      "fileSize": 17047
+    },
+    "4. Skills Management/Certification/CompTIA A+/Core 1 - 220-1101.md": {
+      "mtime": 1740158292711,
+      "wordCount": 2177,
+      "fileSize": 15002
+    },
+    "4. Skills Management/Certification/CompTIA A+/CompTIA A+.md": {
+      "mtime": 1740158336818,
+      "wordCount": 70,
+      "fileSize": 371
+    },
+    "4. Skills Management/Certification/CompTIA A+/A+  Introduction.md": {
+      "mtime": 1740158257675,
+      "wordCount": 464,
+      "fileSize": 2841
+    },
+    "3. Knowledge Management/Financial Education/Financial Education.md": {
+      "mtime": 1740121942435,
+      "wordCount": 479,
+      "fileSize": 2647
+    },
+    "3. Knowledge Management/Financial Education/9. Wealth Is What You Don't See.md": {
+      "mtime": 1740121942435,
+      "wordCount": 484,
+      "fileSize": 2690
+    },
+    "3. Knowledge Management/Financial Education/8. Man in the Car Paradox.md": {
+      "mtime": 1740121942432,
+      "wordCount": 267,
+      "fileSize": 1520
+    },
+    "3. Knowledge Management/Financial Education/7. Freedom.md": {
+      "mtime": 1740121942372,
+      "wordCount": 415,
+      "fileSize": 2380
+    },
+    "3. Knowledge Management/Financial Education/6. Tails, You Win.md": {
+      "mtime": 1740121942215,
+      "wordCount": 501,
+      "fileSize": 2796
+    },
+    "3. Knowledge Management/Financial Education/5. Getting Wealthy vs. Staying Wealthy.md": {
+      "mtime": 1740121942215,
+      "wordCount": 643,
+      "fileSize": 3831
+    },
+    "3. Knowledge Management/Financial Education/4. Confounding Compounding.md": {
+      "mtime": 1740121942098,
+      "wordCount": 548,
+      "fileSize": 3410
+    },
+    "3. Knowledge Management/Financial Education/3. Never Enough.md": {
+      "mtime": 1740121942095,
+      "wordCount": 563,
+      "fileSize": 3363
+    },
+    "3. Knowledge Management/Financial Education/2. Luck & Risk.md": {
+      "mtime": 1740121941752,
+      "wordCount": 867,
+      "fileSize": 5017
+    },
+    "3. Knowledge Management/Financial Education/18. Independence.md": {
+      "mtime": 1740142764081,
+      "wordCount": 450,
+      "fileSize": 2648
+    },
+    "3. Knowledge Management/Financial Education/17. When You’ll Believe Anything.md": {
+      "mtime": 1740121941518,
+      "wordCount": 1154,
+      "fileSize": 6658
+    },
+    "3. Knowledge Management/Financial Education/16. The Seduction of Pessimism.md": {
+      "mtime": 1740121941058,
+      "wordCount": 678,
+      "fileSize": 4204
+    },
+    "3. Knowledge Management/Financial Education/15. Nothing's Free.md": {
+      "mtime": 1740121940838,
+      "wordCount": 600,
+      "fileSize": 3434
+    },
+    "3. Knowledge Management/Financial Education/14. You’ll Change.md": {
+      "mtime": 1740121940838,
+      "wordCount": 471,
+      "fileSize": 2787
+    },
+    "3. Knowledge Management/Financial Education/13. Room for Error.md": {
+      "mtime": 1740121940838,
+      "wordCount": 714,
+      "fileSize": 4117
+    },
+    "3. Knowledge Management/Financial Education/12. Surprise!.md": {
+      "mtime": 1740121940838,
+      "wordCount": 930,
+      "fileSize": 5560
+    },
+    "3. Knowledge Management/Financial Education/11. Reasonable Rational.md": {
+      "mtime": 1740121940615,
+      "wordCount": 432,
+      "fileSize": 2605
+    },
+    "3. Knowledge Management/Financial Education/10. Save Money.md": {
+      "mtime": 1740121940502,
+      "wordCount": 1371,
+      "fileSize": 8114
+    },
+    "3. Knowledge Management/Financial Education/1. No One’s Crazy.md": {
+      "mtime": 1740121940392,
+      "wordCount": 434,
+      "fileSize": 2567
+    },
+    "3. Knowledge Management/Computer Programming/You Own It.md": {
+      "mtime": 1740165198998,
+      "wordCount": 66,
+      "fileSize": 354
+    },
+    "3. Knowledge Management/Computer Programming/Computer Programming.md": {
+      "mtime": 1740168529811,
+      "wordCount": 82,
+      "fileSize": 432
+    },
+    "3. Knowledge Management/Computer Programming/5. Maintaining Your Edge/5. Maintaining Your Edge.md": {
+      "mtime": 1740168680754,
+      "wordCount": 122,
+      "fileSize": 626
+    },
+    "3. Knowledge Management/Computer Programming/4. Marketing/4. Marketing.md": {
+      "mtime": 1740168527954,
+      "wordCount": 167,
+      "fileSize": 863
+    },
+    "3. Knowledge Management/Computer Programming/3. Executing/3. Executing.md": {
+      "mtime": 1740167825164,
+      "wordCount": 173,
+      "fileSize": 803
+    },
+    "3. Knowledge Management/Computer Programming/2. Investing In Your Product/2. Investing In Your Product.md": {
+      "mtime": 1740168490164,
+      "wordCount": 127,
+      "fileSize": 636
+    },
+    "3. Knowledge Management/Computer Programming/2. Investing In Your Product/18. Automate Yourself into a Job.md": {
+      "mtime": 1740167137844,
+      "wordCount": 59,
+      "fileSize": 348
+    },
+    "3. Knowledge Management/Computer Programming/2. Investing In Your Product/17. On the Shoulders of Giants.md": {
+      "mtime": 1740167057011,
+      "wordCount": 86,
+      "fileSize": 478
+    },
+    "3. Knowledge Management/Computer Programming/2. Investing In Your Product/12. Learn How Businesses Really Work.md": {
+      "mtime": 1740166931381,
+      "wordCount": 90,
+      "fileSize": 533
+    },
+    "3. Knowledge Management/Computer Programming/2. Investing In Your Product/11. Learn to Learn.md": {
+      "mtime": 1740167579241,
+      "wordCount": 125,
+      "fileSize": 711
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/9. Don't Put All Your Eggs in Someone Else's Basket.md": {
+      "mtime": 1740166595638,
+      "wordCount": 119,
+      "fileSize": 693
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/8. Be a Specialist.md": {
+      "mtime": 1740166417581,
+      "wordCount": 58,
+      "fileSize": 329
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/7. Be a Generalist.md": {
+      "mtime": 1740166340388,
+      "wordCount": 170,
+      "fileSize": 1017
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/6. Don't Listen to Your Parents.md": {
+      "mtime": 1740165816691,
+      "wordCount": 71,
+      "fileSize": 432
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/5. Invest in Your Intelligence.md": {
+      "mtime": 1740165729861,
+      "wordCount": 56,
+      "fileSize": 362
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/4. Be the Worst.md": {
+      "mtime": 1740165678524,
+      "wordCount": 45,
+      "fileSize": 237
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/3. Coding Don't Cut It Anymore.md": {
+      "mtime": 1740165563468,
+      "wordCount": 111,
+      "fileSize": 633
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/2. Supply and Demand.md": {
+      "mtime": 1740165493158,
+      "wordCount": 112,
+      "fileSize": 696
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/10. Love It or Leave It.md": {
+      "mtime": 1740166683754,
+      "wordCount": 110,
+      "fileSize": 541
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/1. Lead or Bleed.md": {
+      "mtime": 1740165398328,
+      "wordCount": 90,
+      "fileSize": 552
+    },
+    "3. Knowledge Management/Computer Programming/1. Choosing Your Market/1. Choosing Your Market.md": {
+      "mtime": 1740168452221,
+      "wordCount": 131,
+      "fileSize": 665
+    },
+    "3. Knowledge Management/Books/Summaries/Summaries.md": {
+      "mtime": 1740123977068,
+      "wordCount": 20,
+      "fileSize": 116
+    },
+    "3. Knowledge Management/Books/Summaries/Kingpin - Kevin Poulsen.md": {
+      "mtime": 1740122209995,
+      "wordCount": 8163,
+      "fileSize": 50117
+    },
+    "3. Knowledge Management/Books/Books To Read.md": {
+      "mtime": 1740139388005,
+      "wordCount": 8086,
+      "fileSize": 118656
+    },
+    "2. Personal Development/Vices/Quit Social Media.md": {
+      "mtime": 1740160808374,
+      "wordCount": 166,
+      "fileSize": 972
+    },
+    "2. Personal Development/Vices/I Stopped Watching Movies.md": {
+      "mtime": 1740161803348,
+      "wordCount": 158,
+      "fileSize": 928
+    },
+    "2. Personal Development/Productivity/Slow Productivity.md": {
+      "mtime": 1740133524538,
+      "wordCount": 247,
+      "fileSize": 1476
+    },
+    "2. Personal Development/Productivity/3. Obsess Over Quality/Why You Should Obsess Over Quality.md": {
+      "mtime": 1740134915678,
+      "wordCount": 151,
+      "fileSize": 907
+    },
+    "2. Personal Development/Productivity/3. Obsess Over Quality/What about Perfectionism.md": {
+      "mtime": 1740134954238,
+      "wordCount": 113,
+      "fileSize": 721
+    },
+    "2. Personal Development/Productivity/3. Obsess Over Quality/Spend Money On Quality Tools.md": {
+      "mtime": 1740135163788,
+      "wordCount": 216,
+      "fileSize": 1329
+    },
+    "2. Personal Development/Productivity/3. Obsess Over Quality/Obsess Over Quality.md": {
+      "mtime": 1740134994915,
+      "wordCount": 270,
+      "fileSize": 1772
+    },
+    "2. Personal Development/Productivity/2. Work at a Natural Pace/Forgive Yourself.md": {
+      "mtime": 1740133370838,
+      "wordCount": 248,
+      "fileSize": 1607
+    },
+    "2. Personal Development/Productivity/2. Work at a Natural Pace/Work at a Natural Pace.md": {
+      "mtime": 1740134727825,
+      "wordCount": 263,
+      "fileSize": 1723
+    },
+    "2. Personal Development/Productivity/2. Work at a Natural Pace/Slow It Down.md": {
+      "mtime": 1740135022728,
+      "wordCount": 112,
+      "fileSize": 627
+    },
+    "2. Personal Development/Productivity/2. Work at a Natural Pace/Embrace Seasonality.md": {
+      "mtime": 1740133370832,
+      "wordCount": 128,
+      "fileSize": 790
+    },
+    "2. Personal Development/Productivity/1. Do Fewer Things/Why You Should Do Fewer Things.md": {
+      "mtime": 1740133370848,
+      "wordCount": 194,
+      "fileSize": 1219
+    },
+    "2. Personal Development/Productivity/1. Do Fewer Things/Microproductivity.md": {
+      "mtime": 1740134148978,
+      "wordCount": 201,
+      "fileSize": 1241
+    },
+    "2. Personal Development/Productivity/1. Do Fewer Things/Do Fewer Things.md": {
+      "mtime": 1740137712215,
+      "wordCount": 148,
+      "fileSize": 874
+    },
+    "2. Personal Development/Minimalism/Selective Ignorance/Selective Ignorance.md": {
+      "mtime": 1740180312228,
+      "wordCount": 165,
+      "fileSize": 1181
+    },
+    "2. Personal Development/Minimalism/Selective Ignorance/Mental Squeeze Point.md": {
+      "mtime": 1740169874451,
+      "wordCount": 154,
+      "fileSize": 930
+    },
+    "2. Personal Development/Minimalism/Selective Ignorance/Information Overload.md": {
+      "mtime": 1740171321784,
+      "wordCount": 136,
+      "fileSize": 999
+    },
+    "2. Personal Development/Minimalism/Selective Ignorance/Distractions.md": {
+      "mtime": 1740130415948,
+      "wordCount": 177,
+      "fileSize": 1113
+    },
+    "2. Personal Development/Minimalism/Minimalism/Minimalism.md": {
+      "mtime": 1740127506332,
+      "wordCount": 187,
+      "fileSize": 1191
+    },
+    "2. Personal Development/Minimalism/Minimalism/Choose Spartan Over Luxurious.md": {
+      "mtime": 1740127477172,
+      "wordCount": 86,
+      "fileSize": 565
+    },
+    "2. Personal Development/Minimalism/Concentration/Multitasking.md": {
+      "mtime": 1740130930435,
+      "wordCount": 355,
+      "fileSize": 2074
+    },
+    "2. Personal Development/Minimalism/Concentration/Get Closure.md": {
+      "mtime": 1740130519785,
+      "wordCount": 383,
+      "fileSize": 2277
+    },
+    "2. Personal Development/Minimalism/Concentration/Contain Small Commitments.md": {
+      "mtime": 1740130519445,
+      "wordCount": 133,
+      "fileSize": 837
+    },
+    "2. Personal Development/Mastery/Mastery/Mastery.md": {
+      "mtime": 1740131152088,
+      "wordCount": 127,
+      "fileSize": 925
+    },
+    "2. Personal Development/Mastery/Mastery/Let the Work Carry You Forward.md": {
+      "mtime": 1740132585158,
+      "wordCount": 533,
+      "fileSize": 3191
+    },
+    "2. Personal Development/Mastery/Hard Work/Improve Your Taste.md": {
+      "mtime": 1740174918898,
+      "wordCount": 315,
+      "fileSize": 1884
+    },
+    "2. Personal Development/Mastery/Hard Work/Embrace Struggle.md": {
+      "mtime": 1740131740788,
+      "wordCount": 65,
+      "fileSize": 410
+    },
+    "2. Personal Development/Mastery/Deliberate Practice/Work Like a Careful Carpenter.md": {
+      "mtime": 1740134675575,
+      "wordCount": 122,
+      "fileSize": 746
+    },
+    "2. Personal Development/Mastery/Deliberate Practice/Take Off Your Watch.md": {
+      "mtime": 1740134642902,
+      "wordCount": 96,
+      "fileSize": 536
+    },
+    "2. Personal Development/Mastery/Deliberate Practice/Reps, Reps, Reps.md": {
+      "mtime": 1740131462965,
+      "wordCount": 172,
+      "fileSize": 1065
+    },
+    "2. Personal Development/Mastery/Deliberate Practice/Deliberate Practice.md": {
+      "mtime": 1740131313532,
+      "wordCount": 254,
+      "fileSize": 1585
+    },
+    "2. Personal Development/Learning/Learning/Stop Before You’re Exhausted.md": {
+      "mtime": 1740135522138,
+      "wordCount": 136,
+      "fileSize": 814
+    },
+    "2. Personal Development/Learning/Learning/Learning.md": {
+      "mtime": 1740145363998,
+      "wordCount": 213,
+      "fileSize": 1316
+    },
+    "2. Personal Development/Learning/Building A Second Brain/Why Digital Notes.md": {
+      "mtime": 1740136724795,
+      "wordCount": 159,
+      "fileSize": 854
+    },
+    "2. Personal Development/Learning/Building A Second Brain/Note Taking System.md": {
+      "mtime": 1740159829231,
+      "wordCount": 276,
+      "fileSize": 1587
+    },
+    "2. Personal Development/Learning/Building A Second Brain/Building A Second Brain.md": {
+      "mtime": 1740144975518,
+      "wordCount": 642,
+      "fileSize": 3850
+    },
+    "2. Personal Development/Learning/Academic Success/Academic Success.md": {
+      "mtime": 1740135627715,
+      "wordCount": 332,
+      "fileSize": 1944
+    },
+    "2. Personal Development/Discipline/Habits/Replace Bad Habits.md": {
+      "mtime": 1740126716535,
+      "wordCount": 202,
+      "fileSize": 1119
+    },
+    "2. Personal Development/Discipline/Habits/Behaviour Modification.md": {
+      "mtime": 1740126858482,
+      "wordCount": 244,
+      "fileSize": 1319
+    },
+    "2. Personal Development/Discipline/Finishing Projects/Set Limitations For Yourself.md": {
+      "mtime": 1740126716528,
+      "wordCount": 166,
+      "fileSize": 1036
+    },
+    "2. Personal Development/Discipline/Finishing Projects/Pull Instead of Push.md": {
+      "mtime": 1740127218132,
+      "wordCount": 140,
+      "fileSize": 818
+    },
+    "2. Personal Development/Discipline/Finishing Projects/Finishing Projects.md": {
+      "mtime": 1740127174205,
+      "wordCount": 179,
+      "fileSize": 1107
+    },
+    "2. Personal Development/Discipline/Finishing Projects/Double Your Project Timelines.md": {
+      "mtime": 1740126716525,
+      "wordCount": 292,
+      "fileSize": 1807
+    },
+    "2. Personal Development/Discipline/Discipline/Self-Discipline.md": {
+      "mtime": 1740126732172,
+      "wordCount": 283,
+      "fileSize": 1963
+    },
+    "2. Personal Development/Discipline/Discipline/Grit.md": {
+      "mtime": 1740126901828,
+      "wordCount": 130,
+      "fileSize": 761
+    },
+    "2. Personal Development/Discipline/Discipline/Discipline.md": {
+      "mtime": 1740170118048,
+      "wordCount": 73,
+      "fileSize": 453
+    },
+    "2. Personal Development/Discipline/Discipline/Delayed Gratification.md": {
+      "mtime": 1740126732642,
+      "wordCount": 39,
+      "fileSize": 287
+    },
+    "2. Personal Development/Decisions/Take Action/Take Action.md": {
+      "mtime": 1740171525298,
+      "wordCount": 136,
+      "fileSize": 752
+    },
+    "2. Personal Development/Decisions/Decisions/Reduce the Number of Decisions.md": {
+      "mtime": 1740137249272,
+      "wordCount": 297,
+      "fileSize": 1804
+    },
+    "2. Personal Development/Decisions/Decisions/Decision Paralysis.md": {
+      "mtime": 1740136987228,
+      "wordCount": 63,
+      "fileSize": 370
+    },
+    "2. Personal Development/Decisions/Decisions/Decision Fatigue.md": {
+      "mtime": 1740136986998,
+      "wordCount": 65,
+      "fileSize": 400
+    },
+    "2. Personal Development/Decisions/Creativity/Ideas.md": {
+      "mtime": 1740169553534,
+      "wordCount": 267,
+      "fileSize": 1611
+    },
+    "2. Personal Development/Decisions/Creativity/Idea Emergence.md": {
+      "mtime": 1740169541251,
+      "wordCount": 76,
+      "fileSize": 487
+    },
+    "2. Personal Development/Decisions/Creativity/Facilitate Creativity Through Restrictions.md": {
+      "mtime": 1740136982492,
+      "wordCount": 103,
+      "fileSize": 674
+    },
+    "1. Life Management/My Money/Purchase.md": {
+      "mtime": 1740124480505,
+      "wordCount": 21,
+      "fileSize": 142
+    },
+    "1. Life Management/My Health/Sleep Tracker.md": {
+      "mtime": 1740157795228,
+      "wordCount": 113,
+      "fileSize": 620
+    },
+    "1. Life Management/My Health/My Training.md": {
+      "mtime": 1740124572588,
+      "wordCount": 55,
+      "fileSize": 381
+    },
+    "1. Life Management/My Health/My Health.md": {
+      "mtime": 1740124491035,
+      "wordCount": 41,
+      "fileSize": 290
+    },
+    "1. Life Management/My Health/Sleep.md": {
+      "mtime": 1740183044674,
+      "wordCount": 112,
+      "fileSize": 611
+    },
+    "1. Life Management/Health/Training.md": {
+      "mtime": 1740184520748,
+      "wordCount": 54,
+      "fileSize": 378
+    },
+    "1. Life Management/Health/Health.md": {
+      "mtime": 1740184605741,
+      "wordCount": 40,
+      "fileSize": 287
+    },
+    "1. Life Management/Money/Purchase.md": {
+      "mtime": 1740124480505,
+      "wordCount": 21,
+      "fileSize": 142
+    },
+    "1. Life Management/Health/Sleep.md": {
+      "mtime": 1740183044674,
+      "wordCount": 112,
+      "fileSize": 611
+    }
+  },
+  "activityOverTime": {
+    "2025-02-21": {
+      "wordCount": 68747,
+      "fileSize": 498111
+    },
+    "2025-02-07": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2025-02-19": {
+      "wordCount": 96,
+      "fileSize": 508
+    },
+    "2025-02-22": {
+      "wordCount": 1593,
+      "fileSize": 14990
+    }
+  }
+}

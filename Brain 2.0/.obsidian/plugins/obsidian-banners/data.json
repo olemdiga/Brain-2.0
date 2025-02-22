@@ -1,0 +1,19 @@
+{
+  "height": 200,
+  "style": "gradient",
+  "showInInternalEmbed": false,
+  "internalEmbedHeight": null,
+  "showInPreviewEmbed": true,
+  "previewEmbedHeight": null,
+  "frontmatterField": null,
+  "bannerDragModifier": "ctrl",
+  "iconHorizontalAlignment": "custom",
+  "iconHorizontalTransform": null,
+  "iconVerticalAlignment": "center",
+  "iconVerticalTransform": null,
+  "useTwemoji": false,
+  "showPreviewInLocalModal": true,
+  "localSuggestionsLimit": null,
+  "bannersFolder": "Ω Assets/Banners",
+  "allowMobileDrag": false
+}
